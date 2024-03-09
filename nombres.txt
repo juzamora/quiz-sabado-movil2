@@ -20,7 +20,10 @@ Instrucciones:
    Cuando logre hacer el push exitoso en su rama me puede llamar para crear el PR.
 
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
-
 Juan David Zamorano Zapata
 Gustavo Adolfo Velasquez Granado
 Moises Herrera Gallego
+gerardo martinez carmona
+Juan Esteban Restrepo Ossa
+Moises Herrera Gallego
+
