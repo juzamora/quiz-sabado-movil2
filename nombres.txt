@@ -37,6 +37,7 @@ Juan David Zamorano Zapata
 gerardo martinez carmona
 Juan Esteban Restrepo Ossa
 Moises Herrera Gallego
+María de los Ángeles Brito
 Juan Pablo Osorio
 Catalina Villa
 Miguel Castañeda
@@ -45,3 +46,4 @@ Julian Andres Vallejo Londoño
 Ana Maria Diaz Acevedo
 Michelle Serna
 Julian Andres Vallejo Londoño
+
