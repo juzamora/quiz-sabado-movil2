@@ -29,5 +29,6 @@ Juan David Zamorano Zapata
 gerardo martinez carmona
 Juan Esteban Restrepo Ossa
 Moises Herrera Gallego
-Juan Pablo Osorio
-
+Miguel Castañeda
+Juan David Zamorano Zapata
+Julian Andres Vallejo Londoño
