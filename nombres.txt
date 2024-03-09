@@ -22,7 +22,11 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
-Juan Pablo Osorio G
+
+
+
+Susana Molina Rodríguez
+Jessica Andrea Torres Uribe
 Andreys Paola Mendoza Quiroz
 Gustavo Adolfo Velasquez Granado
 Yely Leana Gómez Vargas
@@ -40,3 +44,4 @@ Juan David Zamorano Zapata
 Julian Andres Vallejo Londoño
 Michelle Serna
 Julian Andres Vallejo Londoño
+
