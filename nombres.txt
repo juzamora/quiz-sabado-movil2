@@ -25,6 +25,7 @@ Juan David Zamorano Zapata
 Santiago Osorio Gómez
 Moises Herrera Gallego
 Owen Andres Holguin Molina
+Juan Pablo Osorio G
 Susana Molina Rodríguez
 Jessica Andrea Torres Uribe
 Andreys Paola Mendoza Quiroz
@@ -39,7 +40,6 @@ gerardo martinez carmona
 Juan Esteban Restrepo Ossa
 Moises Herrera Gallego
 María de los Ángeles Brito
-Juan Pablo Osorio
 Catalina Villa
 Miguel Castañeda
 Juan David Zamorano Zapata
