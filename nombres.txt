@@ -22,6 +22,7 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+Santiago Osorio Gómez
 Moises Herrera Gallego
 Owen Andres Holguin Molina
 Juan Pablo Osorio G
