@@ -24,10 +24,11 @@ Instrucciones:
 Juan David Zamorano Zapata
 Moises Herrera Gallego
 Owen Andres Holguin Molina
+Jessica Andrea Torres Uribe
+Andreys Paola Mendoza Quiroz
 Gustavo Adolfo Velasquez Granado
 Yely Leana Gómez Vargas
 Juan David Zamorano Zapata
-
 Cristian Danilo Tobón Marulanda
 Moises Herrera Gallego
 luis anderson barrero ramirez
@@ -40,3 +41,6 @@ Catalina Villa
 Miguel Castañeda
 Juan David Zamorano Zapata
 Julian Andres Vallejo Londoño
+Michelle Serna
+Julian Andres Vallejo Londoño
+
