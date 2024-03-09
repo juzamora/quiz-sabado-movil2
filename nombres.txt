@@ -25,6 +25,7 @@ Juan David Zamorano Zapata
 
 
 Susana Molina Rodríguez
+Jessica Andrea Torres Uribe
 Andreys Paola Mendoza Quiroz
 Gustavo Adolfo Velasquez Granado
 Yely Leana Gómez Vargas
@@ -41,3 +42,6 @@ Catalina Villa
 Miguel Castañeda
 Juan David Zamorano Zapata
 Julian Andres Vallejo Londoño
+Michelle Serna
+Julian Andres Vallejo Londoño
+
