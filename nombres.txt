@@ -22,6 +22,8 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+Moises Herrera Gallego
+Owen Andres Holguin Molina
 
 
 Susana Molina Rodríguez
